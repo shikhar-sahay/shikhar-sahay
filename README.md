@@ -1,6 +1,7 @@
 <h1 align="left">
   Hola, Shikhar Here!
   <img src="https://github.com/user-attachments/assets/b78f3bbc-473f-40d0-af55-fd6da14d23d8" width="32" height="32" />
+  <img src="https://komarev.com/ghpvc/?username=shikhar-sahay&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px" />
 </h1>
 
 <p align="left">
