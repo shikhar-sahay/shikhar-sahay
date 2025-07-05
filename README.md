@@ -1,8 +1,10 @@
 <h1 align="left">
   Hola, Shikhar Here!
   <img src="https://github.com/user-attachments/assets/b78f3bbc-473f-40d0-af55-fd6da14d23d8" width="32" height="32" />
-  <img src="https://komarev.com/ghpvc/?username=shikhar-sahay&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px" />
+  <img src="https://komarev.com/ghpvc/?username=shikhar-sahay&label=Profile+Views&color=00bbff&style=for-the-badge" align="right" />
 </h1>
+
+
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=300&color=00BBFF&center=false&vCenter=true&width=850&lines=Cybersecurity+Enthusiast+%7C+Tech+Explorer+%7C+Builder+%26+Developer;Driven+By+Curiosity+%7C+Built+On+Conversation+%7C+Powered+By+Visca+Barca" alt="Typing SVG" />
