@@ -9,33 +9,33 @@
 
 ## About Me
 
-- 🎓 Sophomore CS Student (Specializing In Cybersecurity) At VIT Vellore
-- 📌 Core Member At GDSC-VIT & CodeChef-VIT, Contributing Across Tech & Management
-- 📫 Let’s Talk Tech, Ideas, Or Anything In Between — Contact Me At sahay.shikhar@gmail.com
+- 🎓 Sophomore CS Student (Specializing In Cybersecurity) At VIT Vellore  
+- 📌 Core Member At GDSC-VIT & CodeChef-VIT, Contributing Across Tech & Management  
+- 📫 Let’s Talk Tech, Ideas, Or Anything In Between — Contact Me At sahay.shikhar@gmail.com  
 
 ## Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shikharsahay/" style="margin-right: 24px;">
+  <a href="https://www.linkedin.com/in/shikharsahay/" style="margin-right: 24px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/Noscope999" style="margin-right: 24px;">
+  <a href="https://x.com/Noscope999" style="margin-right: 24px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/shikhar.sahay/" style="margin-right: 24px;">
+  <a href="https://www.instagram.com/shikhar.sahay/" style="margin-right: 24px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/711646546399199253" style="margin-right: 24px;">
+  <a href="https://discordapp.com/users/711646546399199253" style="margin-right: 24px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
-  <a href="https://monkeytype.com/profile/shikharsahay" style="margin-right: 24px;">
+  <a href="https://monkeytype.com/profile/shikharsahay" style="margin-right: 24px; text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" height="40" width="40" alt="Monkeytype" />
   </a>
-
 </p>
 
 ## Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,ts,mysql,c,cpp,linux,git,notion,photoshop&theme=dark)](https://skillicons.dev)
+
 
 
