@@ -19,7 +19,10 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/Noscope999)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/shikhar.sahay/)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/711646546399199253)
-[![Monkeytype](https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb)](https://monkeytype.com/profile/shikharsahay)
+<a href="https://monkeytype.com/profile/shikharsahay">
+  <img src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" width="55" height="55" style="vertical-align: middle;" />
+</a>
+
 
 ## Tech Stack & Tools
 
