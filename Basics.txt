@@ -1,0 +1,36 @@
+HTML has two types of tags, self-closing tags like meta and pair tags like <head>, closed with </head>.
+
+SEO is greatly impacted by core web vitals, some examples of which include CLS (Cumulative Layout Shift - which measures how much a pages layout shifts while loading, which oftens leads to unwanted user experiences, the less shifting the better), LCP (Largest Contentful Paint - measures the render time of the largest image or text block relative to the page being opened, where below 2.5 seconds is a good score), & FID (First Input Delay - measures the time between the user initially interacting with the site to how fast the browser can begin processing in response to that interaction, where an FID of less than 100 milliseconds is considered good).
+
+A lighthouse report can be generated via inspect element and it grants you diagnostic information on a website and gauges it's core web vitals and the general functionality of the website.
+
+Meta tags (desc and keywords for example) grant the user more information about your website. Meta keywords are considered relatively redundant now, while the meta description is shown on the search portal for many browsers.
+
+Inline elements are elements that only take up the required screen width while block elements take up the full screens width. By default, div, p, h, lists, forms, tables, etc are block elements while a, image, input, br are inline element
+
+ID's and classes are both attributes, with a key difference. An ID is a unique identifier given to an element, and only one element can have a specific ID. A class on the other hand can only be given to multiple elements which are meant to be grouped, and it can be used to apply a style onto multiple elements simultaneously. We can also use ID's for direct linking (if we have the ID of a certain element then we can directly be directed to it when inserted in the link as link#id). Both of these are global attributes and can be used with any HTML element, regardless of tag.
+
+Semantic tags are elements that clearly describe their meaning and purpose in the page structure, being useful for SEO (Search Engine Optimization). Some exampels of semantic tags are header, nav, main, aside, footer, time, main , figure + figcaption, etc.
+
+CSS can be of 3 types, inline (using the style attribute for a certain element - with color, font-weight, etc), internal (using the style tag), or external (from a separate .css style).
+
+The CSS box model explains how every HTML element is rendered as a rectangle with the content surrounded by internal padding, a border, and an external margin. Another concept, margin collapse explains how the overlapping of 2 margins is resolved by the greater margin being applied a single time.
+HTML has two types of tags, self-closing tags like meta and pair tags like <head>, closed with </head>.
+
+SEO is greatly impacted by core web vitals, some examples of which include CLS (Cumulative Layout Shift - which measures how much a pages layout shifts while loading, which oftens leads to unwanted user experiences, the less shifting the better), LCP (Largest Contentful Paint - measures the render time of the largest image or text block relative to the page being opened, where below 2.5 seconds is a good score), & FID (First Input Delay - measures the time between the user initially interacting with the site to how fast the browser can begin processing in response to that interaction, where an FID of less than 100 milliseconds is considered to be good).
+
+A lighthouse report can be generated via inspect element and it gives you diagnostic information on a website and gauges it's core web vitals and the general functionality of the website.
+
+Meta tags (desc and keywords for example) grant the user more information about your website. Meta keywords are considered relatively redundant now, while the meta description is shown on the search portal for many browsers next to the website hyperlinks.
+
+Inline elements are elements that only take up required screen width while block elements take up the full screens width. By default, div, p, h, lists, forms, tables, etc are block elements while a, image, input, br are inline element
+
+ID's and classes are both attributes, with a key difference. An ID is a unique identifier given to an element, and only one element can have a specific ID. A class on the other hand can be given to multiple elements which are meant to be grouped, and it can be used to apply a style onto multiple elements simultaneously. We can also use ID's for direct linking (if we have the ID of a certain element then we can directly be directed to it when inserted in the link as link#id). Both of these are global attributes and can be used with any HTML element, regardless of tag.
+
+Semantic tags are elements that clearly describe their meaning and purpose in the page structure, being useful for SEO. Some exampels of semantic tags are header, nav, main, aside, footer, time, main , figure + figcaption, etc.
+
+CSS can be of 3 types, inline (using the style attribute for a certain element - with color, font-weight, etc), internal (using the style tag), or external (from a separate .css file).
+
+The CSS box model explains how every HTML element is rendered as a rectangle with the content surrounded by internal padding, a border, and an external margin. Another concept, margin collapse explains how the overlapping of 2 margins is resolved by the greater margin being applied a single time (rather than both being applied).
+
+The cascade algorithm is the algorithm used to resolve conflicts when multiple CSS rules are applied to a certain HTML element. There are 4 general rules for the cascade algorithm. The first rule is position and order of appearance, where the last applied style (when styles are common - like being class selectors) overwrites the previously assigned selectors. The second rule is specificity, a point-based system with the priority order being !important Tag (10,000) > Inline Style (1000) > ID Selector (100) > Class or Attribute Selector (10) > Element Selector (1) > Universal Selector (0), with the numbers being the specificity points assigned, and we can add up the specificity values where multiple are used. The 3rd rule of the cascade algorithm is origin, being where the css originates from (browser style, browser extension, or your authored css). The user agent stylesheet tells us which styles the browser automatically assigns, and these can be overriden by assigned them ourselves. The 4th and final rule is importance, where some CSS rules are weighted higher than others (especially those with the !important tag)
