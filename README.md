@@ -4,14 +4,14 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=300&color=00BBFF&center=false&vCenter=true&width=850&lines=Cybersecurity+Enthusiast+%7C+Tech+Explorer+%7C+Builder+%26+Developer;Driven+by+Curiosity+%7C+Built+on+Conversation+%7C+Powered+by+Visca+Barca" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=300&color=00BBFF&center=false&vCenter=true&width=850&lines=Cybersecurity+Enthusiast+%7C+Tech+Explorer+%7C+Builder+%26+Developer;Driven+By+Curiosity+%7C+Built+On+Conversation+%7C+Powered+By+Visca+Barca" alt="Typing SVG" />
 </p>
 
 ## About Me
 
-- 🎓 Sophomore CS student (Specializing in Cybersecurity) at VIT Vellore
-- 📌 Core Member at GDSC-VIT & CodeChef-VIT, contributing across tech & management
-- 📫 Let’s talk tech, ideas, or anything in between — contact me at sahay.shikhar@gmail.com
+- 🎓 Sophomore CS Student (Specializing In Cybersecurity) At VIT Vellore
+- 📌 Core Member At GDSC-VIT & CodeChef-VIT, Contributing Across Tech & Management
+- 📫 Let’s Talk Tech, Ideas, Or Anything In Between — Contact Me At sahay.shikhar@gmail.com
 
 ## Socials
 
