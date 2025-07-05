@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="left">
+  Hola, Shikhar Here!
+  <img src="https://github.com/user-attachments/assets/b78f3bbc-473f-40d0-af55-fd6da14d23d8" width="32" height="32" />
+</h1>
 
-<!--
-**Noscope999/Noscope999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=300&color=00BBFF&center=false&vCenter=true&width=850&lines=Cybersecurity+Enthusiast+%7C+Tech+Explorer+%7C+Builder+%26+Developer;Driven+by+Curiosity+%7C+Built+on+Conversation+%7C+Powered+by+Visca+Barca" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Sophomore CS student (Specializing in Cybersecurity) at VIT Vellore
+- 📌 Core Member at GDSC-VIT & CodeChef-VIT, contributing across tech & management
+- 📫 Let’s talk tech, ideas, or anything in between — contact me at sahay.shikhar@gmail.com
+
+## Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shikharsahay/" style="margin-right: 24px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Noscope999" style="margin-right: 24px;">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/shikhar.sahay/" style="margin-right: 24px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/711646546399199253" style="margin-right: 24px;">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+  </a>
+  <a href="https://monkeytype.com/profile/shikharsahay" style="margin-right: 24px;">
+    <img src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" height="40" width="40" alt="Monkeytype" />
+  </a>
+
+</p>
+
+## Tech Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,ts,mysql,c,cpp,linux,git,notion,photoshop&theme=dark)](https://skillicons.dev)
+
+
