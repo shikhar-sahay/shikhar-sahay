@@ -13,7 +13,7 @@
 ## About Me
 
 - 🎓 Sophomore CS Student (Specializing In Cybersecurity) At VIT Vellore  
-- 📌 Core Member At GDSC-VIT & CodeChef-VIT, Contributing Across Tech & Management  
+- 📌 Core Member At GDG-VIT & CodeChef-VIT, Contributing Across Tech & Management  
 - 📫 Let’s Talk Tech, Ideas, Or Anything In Between — Contact Me At sahay.shikhar@gmail.com  
 
 ## Socials
